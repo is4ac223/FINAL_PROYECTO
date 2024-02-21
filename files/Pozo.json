@@ -1,0 +1,268 @@
+{
+    "controlador.listas.DynamicList": {
+        "header": {
+            "info": {
+                "@class": "modelo.Pozo",
+                "id": 1,
+                "nombre": "DecorCars",
+                "foto1": "fotof1a13e8c-ca71-434f-ab69-335929998cdc.jpg",
+                "foto2": "fotofe38743d-e6a0-4956-a175-8e93ef16bb96.jpg",
+                "coordenada": {
+                    "longitud": -79.20570554047544,
+                    "latitud": -4.0288326810933714
+                }
+            },
+            "next": {
+                "info": {
+                    "@class": "modelo.Pozo",
+                    "id": 2,
+                    "nombre": "MultiMercados El Portal",
+                    "foto1": "foto566c0ce8-1358-4310-b61f-208afc88eaa0.jpg",
+                    "foto2": "foto09f60d99-e1fc-40d5-895b-3528447c3bf0.jpg",
+                    "coordenada": {
+                        "longitud": -79.20608832955597,
+                        "latitud": -4.032226299858193
+                    }
+                },
+                "next": {
+                    "info": {
+                        "@class": "modelo.Pozo",
+                        "id": 3,
+                        "nombre": "Centro Comercial Los Álamos",
+                        "foto1": "foto3a.jpg",
+                        "foto2": "foto3b.jpg",
+                        "coordenada": {
+                            "longitud": -79.207000,
+                            "latitud": -4.033000
+                        }
+                    },
+                    "next": {
+                        "info": {
+                            "@class": "modelo.Pozo",
+                            "id": 4,
+                            "nombre": "Parque Industrial",
+                            "foto1": "foto4a.jpg",
+                            "foto2": "foto4b.jpg",
+                            "coordenada": {
+                                "longitud": -79.208000,
+                                "latitud": -4.034000
+                            }
+                        },
+                        "next": {
+                            "info": {
+                                "@class": "modelo.Pozo",
+                                "id": 5,
+                                "nombre": "Urbanización Santa María",
+                                "foto1": "foto5a.jpg",
+                                "foto2": "foto5b.jpg",
+                                "coordenada": {
+                                    "longitud": -79.209000,
+                                    "latitud": -4.035000
+                                }
+                            },
+                            "next": {
+                                "info": {
+                                    "@class": "modelo.Pozo",
+                                    "id": 6,
+                                    "nombre": "Zona Comercial El Jardín",
+                                    "foto1": "foto6a.jpg",
+                                    "foto2": "foto6b.jpg",
+                                    "coordenada": {
+                                        "longitud": -79.210000,
+                                        "latitud": -4.036000
+                                    }
+                                },
+                                "next": {
+                                    "info": {
+                                        "@class": "modelo.Pozo",
+                                        "id": 7,
+                                        "nombre": "Barrio Las Peñas",
+                                        "foto1": "foto7a.jpg",
+                                        "foto2": "foto7b.jpg",
+                                        "coordenada": {
+                                            "longitud": -79.211000,
+                                            "latitud": -4.037000
+                                        }
+                                    },
+                                    "next": {
+                                        "info": {
+                                            "@class": "modelo.Pozo",
+                                            "id": 8,
+                                            "nombre": "Plaza Grande",
+                                            "foto1": "foto8a.jpg",
+                                            "foto2": "foto8b.jpg",
+                                            "coordenada": {
+                                                "longitud": -79.212000,
+                                                "latitud": -4.038000
+                                            }
+                                        },
+                                        "next": {
+                                            "info": {
+                                                "@class": "modelo.Pozo",
+                                                "id": 9,
+                                                "nombre": "Mercado Central",
+                                                "foto1": "foto9a.jpg",
+                                                "foto2": "foto9b.jpg",
+                                                "coordenada": {
+                                                    "longitud": -79.213000,
+                                                    "latitud": -4.039000
+                                                }
+                                            },
+                                            "next": {
+                                                "info": {
+                                                    "@class": "modelo.Pozo",
+                                                    "id": 10,
+                                                    "nombre": "Universidad Nacional",
+                                                    "foto1": "foto10a.jpg",
+                                                    "foto2": "foto10b.jpg",
+                                                    "coordenada": {
+                                                        "longitud": -79.214000,
+                                                        "latitud": -4.040000
+                                                    }
+                                                },
+                                                "next": {
+                                                    "info": {
+                                                        "@class": "modelo.Pozo",
+                                                        "id": 11,
+                                                        "nombre": "Galerías Modernas",
+                                                        "foto1": "foto11a.jpg",
+                                                        "foto2": "foto11b.jpg",
+                                                        "coordenada": {
+                                                            "longitud": -79.215000,
+                                                            "latitud": -4.041000
+                                                        }
+                                                    },
+                                                    "next": {
+                                                        "info": {
+                                                            "@class": "modelo.Pozo",
+                                                            "id": 12,
+                                                            "nombre": "Terminal Terrestre",
+                                                            "foto1": "foto12a.jpg",
+                                                            "foto2": "foto12b.jpg",
+                                                            "coordenada": {
+                                                                "longitud": -79.216000,
+                                                                "latitud": -4.042000
+                                                            }
+                                                        },
+                                                        "next": {
+                                                            "info": {
+                                                                "@class": "modelo.Pozo",
+                                                                "id": 13,
+                                                                "nombre": "Hospital General",
+                                                                "foto1": "foto13a.jpg",
+                                                                "foto2": "foto13b.jpg",
+                                                                "coordenada": {
+                                                                    "longitud": -79.217000,
+                                                                    "latitud": -4.043000
+                                                                }
+                                                            },
+                                                            "next": {
+                                                                "info": {
+                                                                    "@class": "modelo.Pozo",
+                                                                    "id": 14,
+                                                                    "nombre": "Estadio Olímpico",
+                                                                    "foto1": "foto14a.jpg",
+                                                                    "foto2": "foto14b.jpg",
+                                                                    "coordenada": {
+                                                                        "longitud": -79.218000,
+                                                                        "latitud": -4.044000
+                                                                    }
+                                                                },
+                                                                "next": {
+                                                                    "info": {
+                                                                        "@class": "modelo.Pozo",
+                                                                        "id": 15,
+                                                                        "nombre": "Parque Central",
+                                                                        "foto1": "foto15a.jpg",
+                                                                        "foto2": "foto15b.jpg",
+                                                                        "coordenada": {
+                                                                            "longitud": -79.219000,
+                                                                            "latitud": -4.045000
+                                                                        }
+                                                                    },
+                                                                    "next": {
+                                                                        "info": {
+                                                                            "@class": "modelo.Pozo",
+                                                                            "id": 16,
+                                                                            "nombre": "Biblioteca Municipal",
+                                                                            "foto1": "foto16a.jpg",
+                                                                            "foto2": "foto16b.jpg",
+                                                                            "coordenada": {
+                                                                                "longitud": -79.220000,
+                                                                                "latitud": -4.046000
+                                                                            }
+                                                                        },
+                                                                        "next": {
+                                                                            "info": {
+                                                                                "@class": "modelo.Pozo",
+                                                                                "id": 17,
+                                                                                "nombre": "Museo de Historia",
+                                                                                "foto1": "foto17a.jpg",
+                                                                                "foto2": "foto17b.jpg",
+                                                                                "coordenada": {
+                                                                                    "longitud": -79.221000,
+                                                                                    "latitud": -4.047000
+                                                                                }
+                                                                            },
+                                                                            "next": {
+                                                                                "info": {
+                                                                                    "@class": "modelo.Pozo",
+                                                                                    "id": 18,
+                                                                                    "nombre": "Zoológico Municipal",
+                                                                                    "foto1": "foto18a.jpg",
+                                                                                    "foto2": "foto18b.jpg",
+                                                                                    "coordenada": {
+                                                                                        "longitud": -79.222000,
+                                                                                        "latitud": -4.048000
+                                                                                    }
+                                                                                },
+                                                                                "next": {
+                                                                                    "info": {
+                                                                                        "@class": "modelo.Pozo",
+                                                                                        "id": 19,
+                                                                                        "nombre": "Acuario Nacional",
+                                                                                        "foto1": "foto19a.jpg",
+                                                                                        "foto2": "foto19b.jpg",
+                                                                                        "coordenada": {
+                                                                                            "longitud": -79.223000,
+                                                                                            "latitud": -4.049000
+                                                                                        }
+                                                                                    },
+                                                                                    "next": {
+                                                                                        "info": {
+                                                                                            "@class": "modelo.Pozo",
+                                                                                            "id": 20,
+                                                                                            "nombre": "Jardín Botánico",
+                                                                                            "foto1": "foto20a.jpg",
+                                                                                            "foto2": "foto20b.jpg",
+                                                                                            "coordenada": {
+                                                                                                "longitud": -79.224000,
+                                                                                                "latitud": -4.050000
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "last": {
+            "@reference": "../header/next/next/next/next/next/next/next/next/next/next/next/next/next/next/next/next/next/next"
+        },
+        "length": 20
+    }
+}
